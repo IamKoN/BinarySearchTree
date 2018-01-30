@@ -1,0 +1,235 @@
+C:\Users\kathrynanne\Documents\NathanHaven\SHSU\2017 Fall\Data Structure\Labs\Lab 4\BinarySearchTree-master\Binary-search-tree-algoirthm-master\Binary search tree\obj\usebst.exe
+~~~'C' Option Transactions~~~
+
+
+Nkwantal   inserted
+
+Ortiz      inserted
+
+Glosson    inserted
+
+Yang       inserted
+
+Parker     inserted
+
+Kresta     inserted
+
+Rock       inserted
+
+Bell       inserted
+291-7890  
+291-7890  
+
+Acevedo   not found          
+
+Acevedo   not found          
+
+In Order Traversal: 
+
+Name: Parker           Phone: 295-1882  
+
+Name: Rock             Phone: 294-8075  
+
+Name: Yang             Phone: 293-6122  
+
+Name: Bell             Phone: 584-3622  
+
+Name: Glosson          Phone: 295-1601  
+
+Name: Kresta           Phone: 291-7890  
+
+Name: Nkwantal         Phone: 295-1492  
+
+Name: Ortiz            Phone: 291-1864  
+
+
+Pevin      inserted
+
+Norah      inserted
+
+Zembo      inserted
+
+In Order Traversal: 
+
+Name: Bell             Phone: 584-3622  
+
+Name: Glosson          Phone: 295-1601  
+
+Name: Kresta           Phone: 291-7890  
+
+Name: Nkwantal         Phone: 295-1492  
+
+Name: Norah            Phone: 294-1882  
+
+Name: Ortiz            Phone: 291-1864  
+
+Name: Parker           Phone: 295-1882  
+
+Name: Pevin            Phone: 294-1568  
+
+Name: Rock             Phone: 294-8075  
+
+Name: Yang             Phone: 293-6122  
+
+Name: Zembo            Phone: 295-6622  
+
+~~~'B' Option Transactions~~~
+
+Kresta    deleted
+
+Najar     not foundGlosson   deleted
+
+Novak      inserted
+
+Gonzales   inserted
+
+In Order Traversal: 
+
+Name: Gonzales         Phone: 295-1882  
+
+Name: Novak            Phone: 294-1666  
+
+Name: Ortiz            Phone: 291-1864  
+
+Name: Parker           Phone: 295-1882  
+
+Name: Pevin            Phone: 294-1568  
+
+Name: Rock             Phone: 294-8075  
+
+Name: Yang             Phone: 293-6122  
+
+Name: Zembo            Phone: 295-6622  
+
+Name: Gonzales         Phone: 295-1882  
+
+Name: Novak            Phone: 294-1666  
+
+Name: Ortiz            Phone: 291-1864  
+
+
+Reverse In Order Traversal: 
+
+Name: Zembo            Phone: 295-6622  
+
+Name: Yang             Phone: 293-6122  
+
+Name: Rock             Phone: 294-8075  
+
+Name: Pevin            Phone: 294-1568  
+
+Name: Parker           Phone: 295-1882  
+
+Name: Ortiz            Phone: 291-1864  
+
+Name: Novak            Phone: 294-1666  
+
+Name: Gonzales         Phone: 295-1882  
+
+Name: Norah            Phone: 294-1882  
+
+Name: Nkwantal         Phone: 295-1492  
+
+Pre Order Traversal: 
+
+Name: Nkwantal         Phone: 295-1492  
+
+Name: Novak            Phone: 294-1666  
+
+Name: Gonzales         Phone: 295-1882  
+
+Name: Yang             Phone: 293-6122  
+
+Name: Parker           Phone: 295-1882  
+
+Name: Rock             Phone: 294-8075  
+
+Name: Pevin            Phone: 294-1568  
+
+Name: Zembo            Phone: 295-6622  
+
+~~~'A' Option Transactions~~~
+
+
+Iterative  Post Order Traversal: 
+
+Name: Gonzales         Phone: 295-1882  
+
+Name: Novak            Phone: 294-1666  
+
+Name: Gonzales         Phone: 295-1882  
+
+Name: Novak            Phone: 294-1666  
+
+Name: Norah            Phone: 294-1882  
+
+Name: Pevin            Phone: 294-1568  
+
+Name: Rock             Phone: 294-8075  
+
+Name: Parker           Phone: 295-1882  
+
+Name: Zembo            Phone: 295-6622  
+
+Name: Yang             Phone: 293-6122  
+
+Name: Ortiz            Phone: 291-1864  
+
+
+Recursive Post Order Traversal: 
+
+Name: Gonzales         Phone: 295-1882  
+
+Name: Novak            Phone: 294-1666  
+
+Name: Gonzales         Phone: 295-1882  
+
+Name: Novak            Phone: 294-1666  
+
+Name: Norah            Phone: 294-1882  
+
+Name: Pevin            Phone: 294-1568  
+
+Name: Rock             Phone: 294-8075  
+
+Name: Parker           Phone: 295-1882  
+
+Name: Zembo            Phone: 295-6622  
+
+Name: Yang             Phone: 293-6122  
+
+Name: Ortiz            Phone: 291-1864  
+
+
+Deallocating all nodes...
+
+
+Deallocating Gonzales  
+
+Deallocating Novak     
+
+Deallocating Ortiz     
+
+Deallocating Parker    
+
+Deallocating Pevin     
+
+Deallocating Rock      
+
+Deallocating Yang      
+
+Deallocating Zembo     
+
+Deallocating Gonzales  
+
+Deallocating Ortiz     
+
+Deallocating Pevin     
+
+Deallocating head node...
+
+All nodes deallocated
+
+Program terminated
+
+[2017-12-01 09:43:01] process terminated successfully, elapsed time: 01.28s
